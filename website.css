@@ -1,0 +1,116 @@
+body{
+
+margin=;
+
+background-color:black;
+background-size: cover;
+}
+
+
+.logo h2{
+position: relative;
+color: lightblue;
+font-family: verdana;
+left: 50px;
+}
+
+.nav{
+position: relative;
+display: direction;
+top: 10px;
+border:solid;
+border-color: pink;
+}
+
+.nav a{
+font-family: verdana;
+padding: 15px;
+color : lightblue;
+float: right;
+text-decoration: none;
+border:solid;
+border-color: pink;
+}
+
+.nav a :hover{
+border-box: solid;
+transition: o.6s ease;
+}
+
+.bord .title{
+color: pink;
+margin: 25px 25px;
+position: absolute;
+top: 100px;
+left: 500px;
+height: 10%;
+width: 30%;
+border: solid;
+}
+
+.title{
+position: absolute;
+}
+
+.title h2{
+font-family: verdana;
+position: absolute;
+left: 50px;
+color: white;
+text-align: center;
+}
+
+content{
+flex-box: column;
+display: direction;
+} 
+
+.content1{
+position: absolute;
+top: 50%;
+left: 200px;
+border-box: box-sizing;
+flex: left;
+background-color: pink;
+border:solid;
+border-color: green;
+}
+
+.content2{
+position: absolute;
+left: 600px;
+top: 50%;
+border-box: box-sizing;
+flex: left;
+background-color: pink;
+border:solid;
+border-color: red;
+}
+
+.content3{
+position: absolute;
+left: 900px;
+top: 50%;
+border-box: box-sizing;
+flex: left;
+background-color: pink;
+border:solid;
+border-color: blue;
+}
+
+.content1 h2{
+color: black;
+font-family: verdana;
+}
+
+.content2 h2{
+color: black;
+font-family: verdana;
+}
+
+.content3 h2{
+color: black;
+font-family: verdana;
+}
+
+
